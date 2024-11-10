@@ -1,3 +1,4 @@
 # xorganic.exe
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xorganic&show_icons=true&theme=shadow_red)](https://github.com/xoranic/github-readme-stats)
+<img alt="my stats" align="left" width="45%"  src="https://github-readme-stats.vercel.app/api?username=xorganic&show_icons=true"/>
+<img alt="top langs" align="left" width="45%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=xorganic&layout=compact"/>
