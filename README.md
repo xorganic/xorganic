@@ -14,7 +14,7 @@
 
 - 🧩 **Repository of Shadows**: All of my projects are available at [github.com/xorganic](https://github.com/xorganic)
 
-- ☠️ **Talk Red Team with Me**: Ask me about Red Team tactics, malware development, evasion techniques, and offensive security methodologies.
+- ☠️ **Talk Red with Me**: Ask me about Red Team tactics, malware development, evasion techniques, and offensive security methodologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
