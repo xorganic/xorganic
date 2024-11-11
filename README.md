@@ -1,4 +1,4 @@
- <h1 align="center">  ☠️ Greetings /n, I'm xorganic ☠️</h1>
+ <h1 align="center">☠️ Greetings , I'm xorganic ☠️</h1>
 
  ## 
 <h3 align="center">An offensive security developer specializing in Red Team operations, malware development, and advanced exploitation techniques.</h3>
