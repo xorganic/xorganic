@@ -1,7 +1,7 @@
  <h1 align="center">☠️ Greetings , I'm xorganic ☠️</h1>
 
  ## 
-<h3 align="center">An offensive security developer specializing in Red Team operations, malware development, and advanced exploitation techniques.</h3>
+<h3 align="center">An offensive security developer specialized in Red Team operations, malware development, and advanced exploitation techniques.</h3>
 
 ##
 - 🔥 **Currently Crafting**: sophisticated, modular Command & Control framework featuring peer-to-peer communication, advanced stealth techniques, and multi-language implants.
