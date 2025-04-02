@@ -1,10 +1,7 @@
  <h1 align="center">☠️ Greetings , I'm xorganic ☠️</h1>
 
- ## 
-<h3 align="center">An offensive security developer specialized in Red Team operations, malware development, and advanced exploitation techniques.</h3>
+ ## <h3 align="center">An offensive security resercher specialized in Red Team operations APT Emulation. 
 
-##
-- 🔥 **Currently Crafting**: sophisticated, modular Command & Control framework featuring peer-to-peer communication, advanced stealth techniques, and multi-language implants.
 
 - 🕸️ **Pursuing Mastery in**: Active Directory exploitation techniques, Windows kernel-level development, and advanced OPSEC strategies for Red Team operations.
 
